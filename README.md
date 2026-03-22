@@ -24,4 +24,3 @@ This project demonstrates form structure, input fields, and basic UI design.
 ## 📂 Project Structure
 - index.html  
 - style.css  
-<img width="805" height="1009" alt="image" src="https://github.com/user-attachments/assets/aa8781a3-42f3-4656-8660-08ad19c4b180" />
